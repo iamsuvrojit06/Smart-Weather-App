@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Smart Weather App</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body data-theme="light">
+  <div class="weather-app">
+    <h1>🌤 Smart Weather App</h1>
+    <div class="input-group">
+      <input type="text" id="city-input" placeholder="Enter city..." />
+      <button id="search-btn">Search</button>
+    </div>
+    <button id="voice-btn">🎤 Voice Search</button>
+    <button id="speak-btn">🔊 Speak Weather</button>
+    <button id="theme-toggle">🌓 Toggle Theme</button>
+
+    <div class="weather-result" id="weather-result"></div>
+
+    <h2 style="margin-top: 2rem;">4-Day Forecast</h2>
+    <div class="forecast-container" id="forecast-container"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
