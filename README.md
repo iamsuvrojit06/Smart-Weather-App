@@ -26,6 +26,7 @@ JavaScript (ES6) – Logic, DOM, API handling
 Weather REST API – Live data source
 
 📂 Project Structure
+
 Smart-Weather-App/
 ├── index.html
 ├── style.css
@@ -69,9 +70,9 @@ Clean UI/UX Design
 Suvrojit Mukherjee
 B.Tech Computer Science & Engineering
 
-💼 LinkedIn: Add your link
+💼 LinkedIn: https://linkedin.com/suvrojitmukherjee
 
-🌐 Portfolio: Add your link
+🌐 Portfolio: https://suvrojitmukherjee.netlify.app
 
 ⭐ Feedback
 
