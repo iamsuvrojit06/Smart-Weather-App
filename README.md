@@ -70,7 +70,7 @@ Clean UI/UX Design
 Suvrojit Mukherjee
 B.Tech Computer Science & Engineering
 
-💼 LinkedIn: https://linkedin.com/suvrojitmukherjee
+💼 LinkedIn: https://LinkedIn.com/suvrojitmukherjee
 
 🌐 Portfolio: https://suvrojitmukherjee.netlify.app
 
